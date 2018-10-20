@@ -1,10 +1,10 @@
 (Solution Code from Code Institute tutorial - Challenge 1 (I/O))
 
-#Challenge 1
+# Challenge 1
 
 Experiment with the "w+" access mode. Write some example code to understand how it works.
 
-##Output from Console:
+## Output from Console:
 
 ~/workspace $ python3
 Python 3.4.3 (default, Nov 17 2016, 01:08:31) 
